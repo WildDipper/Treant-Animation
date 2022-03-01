@@ -1,4 +1,4 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 
 # Unity3D generated meta files
-*.meta
+*.png.meta
