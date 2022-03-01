@@ -7,7 +7,7 @@ Spine Monster Treant animation
 
 ![treant](https://user-images.githubusercontent.com/20840303/155903135-6502c2f3-1575-4b3b-9f2a-6956ffacd534.gif)
 
-                                            Treant 1
+                                           Treant 1
 
 ![Treant-V1-Attack_00](https://user-images.githubusercontent.com/20840303/156073212-774eb15f-46b0-4442-8cff-8a8fa3605683.png)
 
@@ -23,5 +23,7 @@ Spine Monster Treant animation
                                            
 ![Treant-V2-Attack_00](https://user-images.githubusercontent.com/20840303/156081130-bf9e0bc5-a2ba-4e61-95d4-811e6cd2c26b.png)
 
-
+                                           Treant 5
+ 
+![Treant-V2-Attack_00](https://user-images.githubusercontent.com/20840303/156228824-392da84f-227c-4f91-ba22-ec5b67de28e1.png)
 
